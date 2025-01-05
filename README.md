@@ -43,9 +43,9 @@ The **Global Super Sales Dashboard** provides insights into the sales performanc
 - **Geographic Insights**: Visual distribution of sales by region using map visualizations.
 
 #### Included Files
-- **Dashboard Screenshot**: `Dashboard Image.png` 
-- **Power BI File (.pbix)**: [To be uploaded in the folder]
-- **30-Second Video Demo**: [To be uploaded in the folder]
+- **Dashboard Screenshot**: ![Dashboard Screenshot](./Global%20Super%20Sales%20Dashboard/DashBoard%20Image.png)
+- **Power BI File (.pbix)**: [Download the Power BI file](./Global%20Super%20Sales%20Dashboard/Global%20Super%20Store.pbix)
+- **30-Second Video Demo**: [Watch the Demo](./Global%20Super%20Sales%20Dashboard/DashBoard%20Video%20Clip.mp4)
 
 #### Dataset Overview
 The dataset contains sales data for the years **2011 to 2014** and includes the following details:
